@@ -1,0 +1,16 @@
+{
+    "projectName": "MyPocOrg",
+    "username": "bhagyashri.chaudhari@trailhead.com",
+    "id": "1b3001c0-086c-11e6-8c4f-f901874ad53f",
+    "namespace": "",
+    "environment": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "D:/roundCorner/Backup",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
